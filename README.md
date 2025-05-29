@@ -1,6 +1,6 @@
 # CTLB Tweet Embedding Project
 
-This repository contains scripts for processing and analyzing CTLB (Computational Temporal Language Bank) Twitter data.
+This repository contains scripts for processing and analyzing CTLB Twitter Data.
 
 ## Project Structure
 
